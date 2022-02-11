@@ -1,11 +1,11 @@
 # Beispiel
-Dies ist das erste beipiel für die Versionierung
+Dies ist das erste beipiel für die Versionierung.
 
 ## Rückgängig zu machen
-Dies soll 
+Dies soll alles dann wieder zurückgesetzt erden
 
 1. Hallo
 2. Velo
 
 # Neuerinhalt
-blablabla
+Blablabla
